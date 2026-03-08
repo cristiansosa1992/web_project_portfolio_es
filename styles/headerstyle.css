@@ -1,0 +1,41 @@
+.contenedor__flex {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  gap: 1.25rem; /* 20px */
+  align-items: flex-start;
+  margin-bottom: 0;
+}
+
+.contenedor__left {
+  padding-top: 49px;
+  margin: 0;
+  max-width: 793px;
+  min-width: 0;
+}
+
+.header__photo {
+  width: 387px;
+  height: 500px;
+}
+
+.header__photo {
+  width: 387px;
+  height: 500px;
+  flex-shrink: 0;
+}
+.header__actions {
+  display: flex;
+  gap: 1.875rem;
+}
+.header__title {
+  margin-top: 0;
+  margin-bottom: 0.93rem;
+}
+.header__subtitle {
+  margin-bottom: 1.87rem;
+}
+
+.header__description {
+  margin-bottom: 1.875rem;
+}
