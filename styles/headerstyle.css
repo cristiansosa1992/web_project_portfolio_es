@@ -90,6 +90,7 @@ a.header__link:hover {
     width: 280px;
     height: 280px;
     order: -1;
+    object-fit: contain;
   }
 
   a.header__link {
